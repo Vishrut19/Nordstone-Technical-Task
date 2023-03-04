@@ -19,7 +19,7 @@
   - FireStore Database
   - Firebase Storage
   - Firebase Authentication
-- ReactJS
+- ReactJS and Vite
 - TailwindCSS
 - React Router DOM
 - React Hooks
