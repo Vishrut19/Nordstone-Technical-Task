@@ -9,8 +9,6 @@
 - Text
 - Notification
 
-### [Figam Design]()
-
 ### [Nordstone Technical Test](https://nordstone-technical-test.netlify.app/)
 
 ### Technologies Used:
